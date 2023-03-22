@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Prasad</h1>
 <h3 align="center">A Data Science Student, Coming Data Analyst</h3>
-<img align="right" width="100" src="https://www.google.com/search?q=data+analyst+animated+gif&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiAn4qIwu_9AhWbTWwGHR_hAXwQ_AUoAXoECAEQAw&biw=1536&bih=746&dpr=1.25#imgrc=NHlJtoxjEs3iYM">
+<img align="right" width="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdata-analytics&psig=AOvVaw1lONf_TNRFK8qxAFKrfgE-&ust=1679573794279000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjVmpfC7_0CFQAAAAAdAAAAABAJ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadabhi&label=Profile%20views&color=0e75b6&style=flat" alt="prasadabhi" /> </p>
 
