@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhishek Prasad</h1>
 <h3 align="center">A Data Science Student, Coming Data Analyst</h3>
-<img align="right" width="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdata-analytics&psig=AOvVaw1lONf_TNRFK8qxAFKrfgE-&ust=1679573794279000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjVmpfC7_0CFQAAAAAdAAAAABAJ">
+<img align="right" alt="analysis" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadabhi&label=Profile%20views&color=0e75b6&style=flat" alt="prasadabhi" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Project**
-
 - 🌱 I’m currently learning **GDA , Excel -Advanced**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abhishek-prasad-2b1578203](https://www.linkedin.com/in/abhishek-prasad-2b1578203)
 
 - 💬 Ask me about **Python , SQL , Excel**
 
@@ -25,10 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasadabhi&show_icons=true&locale=en&layout=compact" alt="prasadabhi" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasadabhi&show_icons=true&locale=en" alt="prasadabhi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadabhi&" alt="prasadabhi" /></p>
-
 
