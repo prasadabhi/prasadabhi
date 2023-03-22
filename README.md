@@ -1,3 +1,4 @@
+![logo](https://github.com/prasadabhi/prasadabhi/blob/main/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a-1847707149.png)
 <h1 align="center">Hi 👋, I'm Abhishek Prasad</h1>
 <h3 align="center">A Data Science Student, Coming Data Analyst</h3>
 <img align="right" alt="analysis" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif">
